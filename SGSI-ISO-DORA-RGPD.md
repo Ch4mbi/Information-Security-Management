@@ -248,7 +248,7 @@ Los activos de ChamBank se clasifican siguiendo criterios de la ISO 27001: por t
 
 | Activo | Descripción | Grupo | Impacto CID |
 | ----- | ----- | ----- | ----- |
-|  **Datos de clientes**  | En este activo se engloba la información personal de los clientes, como credenciales de acceso, información privada, historial, etc. Su exposición puede provocar fraudes, sanciones, pérdida de confianza de los clientes, etc. |  Información | Confidencialidad: Alta Integridad:  Alta Disponibilidad: Media |
+|  **Datos de clientes**  | En este activo se engloba la información personal de los clientes, como credenciales de acceso, información privada, historial, etc. Su exposición puede provocar fraudes, sanciones, pérdida de confianza de los clientes, etc. |  Información | • Confidencialidad: Alta<br>• Integridad:  Alta<br>• Disponibilidad: Media |
 |  **App de banca online** | Es el canal principal de interacción entre los clientes y sus cuentas bancarias. Lo usan para llevar a cabo transacciones, gestionar sus cuentas o solicitar diversos servicios. |  Software/ Programas | Confidencialidad: Alta Integridad:  Alta Disponibilidad: Alta |
 |  **Infraestructura cloud** | Es el conjunto de servicios que aporta la nube ya sea para almacenar datos, ejecutar apps, llevar a cabo operaciones, …Una mala configuración de la misma da lugar a comprometer diversos servicios. |  Infraestructura | Confidencialidad: Alta:  Integridad: Alta Disponibilidad: Alta |
 |  **APIs financieras**  | Engloba las diferentes maneras de los trabajadores de comunicarse con diversos servicios, si se ven comprometidas, pueden dar acceso no autorizado a datos o permitir ejecuciones de código. |  Software/ Programas | Confidencialidad: Alta Integridad: Alta Disponibilidad: Alta |
